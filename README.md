@@ -1,6 +1,8 @@
 # Data_Analysis_Portfolio_Projects
+![image](https://github.com/user-attachments/assets/1f6f10e4-ab46-465a-8458-5c4b2acba067)
 
-### List of data analysis portfolio projects
+
+## List of data analysis portfolio projects
 
 * SQL Projects : Layoffs Data Projects (Cleaning & Processing in MySQL & Analysis (EDA) in PostgreSQL)
 * Power BI Project : Layoffs Data Project (Create a Layoffs Data Dahboard/Report after SQL processess)
