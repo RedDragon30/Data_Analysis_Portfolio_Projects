@@ -1,4 +1,4 @@
-# Data_Analysis_Portfolio_Projects
+# Data Analysis Portfolio Projects
 ![image](https://github.com/user-attachments/assets/1f6f10e4-ab46-465a-8458-5c4b2acba067)
 
 ## List of data analysis portfolio projects
