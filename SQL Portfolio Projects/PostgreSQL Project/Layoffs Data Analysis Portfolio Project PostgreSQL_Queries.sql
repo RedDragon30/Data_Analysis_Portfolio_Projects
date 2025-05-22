@@ -12,7 +12,7 @@ World Layoffs Data Analysis (EDA) Using PostgreSQL Database
 DROP DATABASE IF EXISTS world_layoffs;
 CREATE DATABASE world_layoffs;
 
--- Impord Preprocessed data
+-- Import Preprocessed data
 CREATE TABLE IF NOT EXISTS layoffs_eda (
   company text,
   companies_size int DEFAULT NULL,
