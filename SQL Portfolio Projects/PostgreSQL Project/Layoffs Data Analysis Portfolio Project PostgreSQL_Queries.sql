@@ -6,7 +6,7 @@ World Layoffs Data Analysis (EDA) Using PostgreSQL Database
 
 -- Preprocessed Layoffs Data Source: https://github.com/RedDragon30/Data_Analysis_Portfolio_Projects/blob/main/SQL%20Portfolio%20Projects/data/preprocessed%20data/layoffs_staging.csv
 
--- This PreProcessed Layoffs data that we cleaned in MySQL Project.
+-- This Preprocessed Layoffs data that we cleaned in MySQL Project.
 
 -- Create Database for Data Analysis (EDA)
 DROP DATABASE IF EXISTS world_layoffs;
