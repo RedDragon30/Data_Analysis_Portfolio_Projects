@@ -8,6 +8,11 @@ World Layoffs Data Cleaning And Processing Using MySQL Database
 
 -- The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to 8 May 2025.
 
+/*
+
+Environment Preparation
+
+*/
 
 -- Create Database for Data Processing
 CREATE DATABASE IF NOT EXISTS `world_layoffs`;
