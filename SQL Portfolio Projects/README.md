@@ -39,7 +39,7 @@
 * Bivariate & Relational Analysis (like total laid off by columns)
 * USE some extentions for EDA like (pg_trgm, citext) and GIST Index for pg_trgm
 * Advanced Analysis
- * Create some CTEs and Window functions for EDA
+  * Create some CTEs and Window functions for EDA
 * Create Some Views for export to visualization tools (like Tableau, Power BI)
 
 ### Requirements
