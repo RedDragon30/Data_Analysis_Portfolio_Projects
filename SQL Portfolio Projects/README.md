@@ -6,7 +6,7 @@
 ## Description
 
 #### Layoffs Data Source: [Layoffs Data](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
-#### The layoffs data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to 8 May 2025.
+#### The layoffs data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to present.
 
 
 ### List of most important Columns

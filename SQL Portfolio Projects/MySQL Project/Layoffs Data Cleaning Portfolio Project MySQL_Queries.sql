@@ -6,7 +6,7 @@ World Layoffs Data Cleaning And Processing Using MySQL Database
 
 -- Layoffs Data Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
--- The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to 8 May 2025.
+-- The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to present.
 
 /*
 
