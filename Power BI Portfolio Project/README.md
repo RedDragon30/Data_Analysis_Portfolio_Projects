@@ -36,7 +36,7 @@
   * 3- Bivariate & Relational Analysis
   ![image](Images/PowerBI(15).png)![image](Images/PowerBI(16).png)![image](Images/PowerBI(17).png)![image](Images/PowerBI(18).png)![image](Images/PowerBI(19).png)![image](Images/PowerBI(20).png)
 * Layoffs data Dashboard
-![image](Images/Dashboard.png)![image](Images/Dashboard(2).png)
+![image](Images/Dashboard.png)
 
 ### Requirements
 * MySQL 8+
