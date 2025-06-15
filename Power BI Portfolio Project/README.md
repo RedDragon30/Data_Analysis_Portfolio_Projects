@@ -25,8 +25,7 @@
 ### Power BI Processess
 ![Power BI](https://img.icons8.com/?size=200&id=3sGOUDo9nJ4k&format=png&color=000000)
 * Load clean data from MySQL Database
-  <img src="Images/PowerBI(1).png" alt="image" width="75" />
-  <img src="Images/PowerBI(2).png" alt="image" width="75" />
+![image](Images/01.png)
 * Power Query (There are not many things that need to be modified because our data is already clean in MySQL)
 ![image](Images/PowerBI(3).png)![image](Images/PowerBI(4).png)![image](Images/PowerBI(5).png)![image](Images/PowerBI(6).png)![image](Images/PowerBI(7).png)
 * Layoffs Data Analysis (EDA)
