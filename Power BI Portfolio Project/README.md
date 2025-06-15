@@ -27,18 +27,16 @@
 * Load clean data from MySQL Database
 ![image](Images/01.png)
 * Power Query (There are not many things that need to be modified because our data is already clean in MySQL)
-![image](Images/PowerBI(3).png)
-![image](Images/PowerBI(4).png)
-![image](Images/PowerBI(5).png)
-![image](Images/PowerBI(6).png)
-![image](Images/PowerBI(7).png)
+![image](Images/02.png)
 * Layoffs Data Analysis (EDA)
   * 1- Descriptive Analysis & Univariate Destributions
-  ![image](Images/PowerBI(8).png)![image](Images/PowerBI(9).png)![image](Images/PowerBI(10).png)![image](Images/PowerBI(11).png)![image](Images/PowerBI(12).png)
+  ![image](Images/03.png)
   * 2- Top Bankrupt Companies and How much did these companies lose millions funds raised ?
-  ![image](Images/PowerBI(14).png)
+  ![image](Images/04.png)
   * 3- Bivariate & Relational Analysis
-  ![image](Images/PowerBI(15).png)![image](Images/PowerBI(16).png)![image](Images/PowerBI(17).png)![image](Images/PowerBI(18).png)![image](Images/PowerBI(19).png)![image](Images/PowerBI(20).png)
+  ![image](Images/05.png)
+
+  ![image](Images/06.png)
 * Layoffs data Dashboard
 ![image](Images/Dashboard.png)
 
