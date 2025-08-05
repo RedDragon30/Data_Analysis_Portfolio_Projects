@@ -5,7 +5,6 @@
 
 * SQL Projects : Layoffs Data Projects (Cleaning & Processing in MySQL & Analysis (EDA) in PostgreSQL)
 * Power BI Project : Layoffs Data Project (Create a Layoffs Data Dahboard after SQL processess)
-* NoSQL Project :  Number of laid-off employees in each company
-* Python Project : Percentage of laid-off employees in each company
+* Python Project : IMDb Movies Data Analysis Portfolio Project
 * Excel Project :  Companies Industry
 * Tableau Project : Funds raised by the company (in Millions $)
