@@ -29,4 +29,4 @@
 
 ### Requirements
 * Python 3
-* Istall `Pandas` and `Numpy` and `Matplotlib` and `Seaborn`
+* Install `Pandas` and `Numpy` and `Matplotlib` and `Seaborn`
