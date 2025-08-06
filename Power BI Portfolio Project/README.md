@@ -1,5 +1,7 @@
 # Layoffs Data Project: Analysis(EDA) and Visualization in Power BI
 
+![power bi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdashboard-growth&psig=AOvVaw2Bth9YBnM1Jchw4RXzz8gz&ust=1754588596830000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjc8JDe9o4DFQAAAAAdAAAAABAK)
+
 ## Description
 
 #### Layoffs Data Source: [Layoffs Data](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
