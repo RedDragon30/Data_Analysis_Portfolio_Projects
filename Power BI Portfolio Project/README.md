@@ -1,6 +1,4 @@
-# Power BI Portfolio Project
-
-## Layoffs Data Project: Analysis(EDA) and Visualization in Power BI
+# Layoffs Data Project: Analysis(EDA) and Visualization in Power BI
 
 ## Description
 

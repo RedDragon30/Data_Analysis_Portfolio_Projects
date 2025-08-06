@@ -1,6 +1,4 @@
-# SQL Portfolio Project
-
-## Layoffs Data Project: Cleaning & Processing in MySQL & Analysis (EDA) in PostgreSQL
+# Layoffs Data Project: Cleaning & Processing in MySQL & Analysis (EDA) in PostgreSQL
 ![Layoffs](https://americanbazaaronline.com/wp-content/uploads/2022/12/Layoff.jpg)
 
 ## Description

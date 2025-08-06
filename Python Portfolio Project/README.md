@@ -1,8 +1,6 @@
-# Python Portfolio Project
+# IMDb Movies Data Analysis Using Python Portfolio Project
 
 ![IMDb](imdb.jpg)
-
-## IMDb Movies Data Analysis Portfolio Project
 
 ### Data Source: [Movie Industry](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 ### This data was scraped from IMDb and contains 7668 movies in the dataset (200 movies per year, 1980-2020).
