@@ -1,6 +1,7 @@
 # Layoffs Data Project: Analysis(EDA) and Visualization in Power BI
 
-![power bi](<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/07e27d70-bcbd-4396-a093-c7e39617e6d2" />)
+![](<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/b70240f9-9de4-4ea0-a8fe-f5a303c98a41" />
+)
 
 ## Description
 
