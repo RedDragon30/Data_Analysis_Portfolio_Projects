@@ -1,3 +1,3 @@
 # Retail Store Sales Portfolio Project
 
-![](Photo by Pixabay from Pexels: https://www.pexels.com/photo/grocery-store-264636/)
+![](https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg)
