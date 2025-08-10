@@ -6,5 +6,7 @@
 * SQL Projects : Layoffs Data Projects (Cleaning & Processing in MySQL & Analysis (EDA) in PostgreSQL)
 * Power BI Project : Layoffs Data Project (Create a Layoffs Data Dahboard after SQL processess)
 * Python Project : IMDb Movies Data Analysis Portfolio Project
+* Web Scraping Project : Property Finder Egypt Web Scraping Project
 * Excel Project :  Companies Industry
 * Tableau Project : Funds raised by the company (in Millions $)
+* API Pull Project :
