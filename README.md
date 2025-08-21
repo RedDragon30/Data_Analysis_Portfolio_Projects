@@ -7,6 +7,7 @@
 * Power BI Project : Layoffs Data Project (Create a Layoffs Data Dahboard after SQL processess)
 * Python Project : IMDb Movies Data Analysis Portfolio Project
 * Web Scraping Project : Property Finder Egypt Web Scraping Project
-* Excel Project :  Companies Industry
-* Tableau Project : Funds raised by the company (in Millions $)
-* API Pull Project :
+* Excel Project :  Retail Store Sales Portfolio Project
+* Tableau Project : Tableau Dashboards Portfolio Project
+* Website API Pull Portfolio Project : Automating CoinMarketCap (Crypto Website) API Pull Using Python
+
