@@ -1,6 +1,6 @@
 # Automating CoinMarketCap (Crypto Website) API Pull Using Python
 
-
+![crypto](cryptocurrencies.jpg)
 
 ### Data Source: [CoinMarketCap](https://coinmarketcap.com/)
 
